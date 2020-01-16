@@ -11,3 +11,4 @@
 "git log : pull up list of commits" 
 "echo "bonjour" >>hello.txt : add new lines to txt file" 
 "hola" 
+"hallo" 
