@@ -14,3 +14,4 @@
 "hallo" 
 "git diff : all the differences in all the files" 
 "git diff --staged : all the differences in files that have already been added" 
+"git checkout /hash/ : viewing code from old commit (find commit hash you want to look at from git log)" 
