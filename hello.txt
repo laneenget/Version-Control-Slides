@@ -15,3 +15,7 @@
 "git diff : all the differences in all the files" 
 "git diff --staged : all the differences in files that have already been added" 
 "git checkout /hash/ : viewing code from old commit (find commit hash you want to look at from git log)" 
+"git reset : removes all files that have been added but not committed" 
+"git rm --cached yourfilename.txt : remove a file from being tracked by git" 
+"git rm -r --cached yourdirectory : for a directory, add -r for recursive removal" 
+"git rem yourfile.txt : will delete the file from git and from the file system" 
