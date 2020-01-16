@@ -12,3 +12,5 @@
 "echo "bonjour" >>hello.txt : add new lines to txt file" 
 "hola" 
 "hallo" 
+"git diff : all the differences in all the files" 
+"git diff --staged : all the differences in files that have already been added" 
