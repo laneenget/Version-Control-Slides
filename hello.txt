@@ -19,3 +19,6 @@
 "git rm --cached yourfilename.txt : remove a file from being tracked by git" 
 "git rm -r --cached yourdirectory : for a directory, add -r for recursive removal" 
 "git rem yourfile.txt : will delete the file from git and from the file system" 
+"git reset --hard : revert to the last commit" 
+"git branch banner : create a branch" 
+"git checkout banner : check out that branch" 
