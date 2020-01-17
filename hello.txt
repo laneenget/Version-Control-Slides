@@ -22,3 +22,4 @@
 "git reset --hard : revert to the last commit" 
 "git branch banner : create a branch" 
 "git checkout banner : check out that branch" 
+"branches are used to organize work. you can create more branches in addition to master. if you need a new feature, you can create a branch and develop it on the branch, and once the feature is done the branch can be merged into master. this is useful because if the new feature doesn't work, it won't affect the pre-existing program. additionally, you are able to pause work on a branch without affecting master, many people can create branches and work on their own features without affecting others, and branches can be merged in any order." 
