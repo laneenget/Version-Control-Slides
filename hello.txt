@@ -26,3 +26,4 @@
 "git branch new_feature : points to most recent commit" 
 "git reset --hard #hash : hard reset master to the commit before you started working. changes will be saved in the new_feature branch" 
 "git checkout new_feature : keep working on feature and merge when finished" 
+"git remote set-url origin <url> : change origin to different url" 
